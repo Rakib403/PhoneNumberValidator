@@ -1,0 +1,60 @@
+Timestamp: 2023-10-19 20:10:06
+Number: +14085551111
+Status: Likely a real number, not VoIP
+
+Timestamp: 2023-10-19 20:10:06
+Number: +18880001111
+Status: Likely a real number, not VoIP
+
+Timestamp: 2023-10-19 20:10:06
+Number: +12223334444
+Status: Likely a real number, not VoIP
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1222111222
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1444567890
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +14445557777
+Status: Likely a real number, not VoIP
+
+Timestamp: 2023-10-19 20:10:06
+Number: +15554443333
+Status: Likely a real number, not VoIP
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1777777999
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1888555666
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1777666999
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1666111999
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1666888111
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1444555444
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: +1000000000
+Status: Invalid format
+
+Timestamp: 2023-10-19 20:10:06
+Number: 
+Status: Invalid format
+
